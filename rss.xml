@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Zh Game</title>
+        <link>https://your-domain.com</link>
+        <description>电竞赛事资讯，活动分享，新闻动态</description>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 15 Mar 2024 12:00:00 +0800</lastBuildDate>
+
+        <item>
+            <title>LPL春季赛EDG vs RNG比赛前瞻</title>
+            <link>https://your-domain.com/articles/events/lpl-edg-rng-preview.md</link>
+            <description>本周末LPL春季赛将迎来一场焦点对决，老牌劲旅EDG与RNG的较量备受关注。双方目前战绩接近，这场比赛对季后赛形势有重要影响。</description>
+            <pubDate>Wed, 15 Mar 2024 10:00:00 +0800</pubDate>
+            <category>赛事动态</category>
+        </item>
+
+        <item>
+            <title>2024全球总决赛赛制解析</title>
+            <link>https://your-domain.com/articles/news/worlds-2024-system.md</link>
+            <description>2024年英雄联盟全球总决赛将采用全新赛制，扩大参赛队伍数量并优化赛程安排。</description>
+            <pubDate>Wed, 15 Mar 2024 09:00:00 +0800</pubDate>
+            <category>电竞新闻</category>
+        </item>
+
+        <!-- 其他文章条目 -->
+    </channel>
+</rss> 
